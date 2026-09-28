@@ -1,5 +1,5 @@
 #自有规则
-payload：
+payload:
 - DOMAIN-SUFFIX,pvp.qq.com,DIRECT
 - DOMAIN-SUFFIX,pincong.rocks,🇺🇸 美国节点
 - DOMAIN-SUFFIX,247kan.com,DIRECT
