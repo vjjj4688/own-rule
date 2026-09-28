@@ -1,2 +1,16 @@
 #自有规则
 payload：
+- DOMAIN-SUFFIX,pvp.qq.com,DIRECT
+- DOMAIN-SUFFIX,pincong.rocks,🇺🇸 美国节点
+- DOMAIN-SUFFIX,247kan.com,DIRECT
+- DOMAIN-SUFFIX,houhuayuan.pro,♻️ 自动选择
+- DOMAIN-SUFFIX,freedom.gov,♻️ 自动选择
+- DOMAIN-SUFFIX,portal.riolu.work,♻️ 自动选择
+- DOMAIN-KEYWORD,nanyang,DIRECT
+- DOMAIN-SUFFIX,lab.magiconch.com,DIRECT
+- DOMAIN-REGEX,^(.*\.)?yuyan\.[^.]+$,♻️ 自动选择
+- DOMAIN-SUFFIX,xn--mes358aby2apfg.com,♻️ 自动选择
+- DOMAIN-SUFFIX,xn--9kqq37frnz.com.com,♻️ 自动选择
+- DOMAIN-SUFFIX,pqjc.site,♻️ 自动选择
+- GEOSITE,apple,🍎 苹果服务
+- DOMAIN-SUFFIX,bag.itunes.apple.com,🍎 苹果服务
